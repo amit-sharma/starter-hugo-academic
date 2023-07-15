@@ -12,7 +12,7 @@ authors:
 - Amit Sharma
 - Emre Kiciman
 tags: []
-categories: []
+categories: [1]
 date: '2020-09-01'
 lastmod: 2020-12-25T15:49:13+05:30
 featured: false
