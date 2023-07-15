@@ -2,44 +2,43 @@
 title: Amit Sharma
 role: Principal Researcher, Microsoft Research
 avatar_filename: profile_pic_amitsharma_small.jpg
-bio: ""
-interests: []
+bio: Searching for the steps to causal AI.
+interests:
+  - causalinference;causalityandLLMs
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/amt_shrma
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.tw/citations?user=CXgQufgAAAAJ&hl=en
+    display:
+      header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/py-why
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.linkedin.com/in/amitshar/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Microsoft Research
+    url: https://www.microsoft.com/en-us/research/lab/microsoft-research-india/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: Cornell University
+      year: 2015
+    - course: B.Tech. in Computer Science and Engineering
+      institution: Indian Institute of Technology (IIT) Kharagpur
+      year: 2010
 superuser: true
 status:
   icon: ☕️
