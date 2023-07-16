@@ -18,7 +18,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         folders:
@@ -39,12 +39,12 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: highlights
     content:
-      title: Projects
+      title: News & Highlights
       filters:
         folders:
-          - project
+          - highlight
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -55,10 +55,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Interviews
+          tag: interview
+        - name: Articles
+          tag: press
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
