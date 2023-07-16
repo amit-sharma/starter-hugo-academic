@@ -87,5 +87,4 @@ if you are an undergraduate or a masters student, <!--you can additionally apply
  our lab runs an excellent pre-doctoral [Research Fellowship](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/research-fellow-program/)
 program.
 
-[**Read more...**]({{< ref "/page/research-summary.md" >}}) 
 
